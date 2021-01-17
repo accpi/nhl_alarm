@@ -1,0 +1,21 @@
+{
+  "name": "nhl_alarm",
+  "version": "1.0.0",
+  "description": "Alert you on an action by or against an NHL team",
+  "main": "nhlAPI.js",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "node-schedule": "^1.3.2",
+    "play-sound": "^1.1.3",
+    "sound-play": "^1.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nhl"
+  ],
+  "author": "Nelson Kim",
+  "license": "ISC"
+}
