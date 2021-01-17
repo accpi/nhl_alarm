@@ -2,7 +2,7 @@
 Annoy your hockey friends by alerting them whenever they get scored on
 
 The node utility scans for upcoming games for a team of your choice and will play a song of your choosing when they get scored on.
-I recommend choosing Chelsea Dagger for a Vancouver Canucks fan, putting this on a Raspberry Pi and hiding in a present.
+I recommend choosing Chelsea Dagger for a Vancouver Canucks fan, putting this on a Raspberry Pi and hiding it in a present that you give to them.
 
 
 Pretty simple to set up and change, the Team ID in NHL API is for the team you choose, and you can replace sound.mp3 as you wish.
